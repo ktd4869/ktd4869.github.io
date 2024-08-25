@@ -1,7 +1,7 @@
 # Publications (Selected)
 Full publication list can be found at [Google Scholar](https://scholar.google.com.au/citations?user=QULCtjgAAAAJ&hl=en&oi=ao)
 
-- [`ASIA CCS '23`](https://asiaccs2023.org/) [Investigating users’ understanding of privacy policies of virtual personal assistant applications](https://dl.acm.org/doi/abs/10.1145/3579856.3590335), Baiqi Chen, **Tingmin Wu**, Yanjun Zhang, Mohan Baruwal Chhetri, and Guangdong Bai.
+- [`ASIACCS 2023`](https://asiaccs2023.org/) [Investigating users’ understanding of privacy policies of virtual personal assistant applications](https://dl.acm.org/doi/abs/10.1145/3579856.3590335), Baiqi Chen, **Tingmin Wu**, Yanjun Zhang, Mohan Baruwal Chhetri, and Guangdong Bai.
 
 - [`WWW '23`](https://archives.iw3c2.org/www2023/) [Dynalogue: A Transformer-Based Dialogue System with Dynamic Attention](https://dl.acm.org/doi/abs/10.1145/3543507.3583330), Rongjunchen Zhang, **Tingmin Wu**, Xiao Chen, Sheng Wen, Surya Nepal, Cecile Paris, and Yang Xiang.
 
