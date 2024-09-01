@@ -33,6 +33,7 @@ redirect_from:
 <span class='anchor' id='Education'></span>
 {% include_relative includes/edu.md %}
 
+Last updated: Sep 2024
 
 
 
