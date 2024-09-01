@@ -11,3 +11,5 @@ Full publication list can be found at [Google Scholar](https://scholar.google.co
 - [`TDSC '22`](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)[How Does Visualisation Help App Practitioners Analyse Android Apps?](https://ieeexplore.ieee.org/abstract/document/9783019), Lihong Tang, **Tingmin Wu**, Xiao Chen, Sheng Wen, Li Li, Xin Xia, Marthie Grobler, Yang Xiang.
 
 - [`ASIA CCS '20`](https://dl.acm.org/doi/proceedings/10.1145/3320269) [What risk? i don't understand. an empirical study on users' understanding of the terms used in security texts](https://dl.acm.org/doi/abs/10.1145/3320269.3384761), **Tingmin Wu**, Rongjunchen Zhang, Wanlun Ma, Sheng Wen, Xin Xia, Cecile Paris, Surya Nepal, and Yang Xiang. 
+
+- [`Computer&Security '18`](https://www.sciencedirect.com/journal/computers-and-security/vol/76/suppl/C) [Twitter spam detection: Survey of new approaches and comparative study](https://www.sciencedirect.com/science/article/pii/S016740481730250X), **Tingmin Wu**, Sheng Wen, Yang Xiang, Wanlei Zhou. <strong><span class='show_paper_citations' data='QULCtjgAAAAJ:Se3iqnhoufwC'></span></strong>
