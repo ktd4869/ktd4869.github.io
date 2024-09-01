@@ -1,4 +1,4 @@
-# Publications
+# Publications (Selected)
 
 Full publication list can be found at [Google Scholar](https://scholar.google.com.au/citations?user=QULCtjgAAAAJ&hl=en&oi=ao)
 
