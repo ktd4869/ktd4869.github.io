@@ -1,4 +1,5 @@
-# Publications (Selected)
+# Publications
+
 Full publication list can be found at [Google Scholar](https://scholar.google.com.au/citations?user=QULCtjgAAAAJ&hl=en&oi=ao)
 
 - [`ASIACCS 2023`](https://asiaccs2023.org/) [Investigating users’ understanding of privacy policies of virtual personal assistant applications](https://dl.acm.org/doi/abs/10.1145/3579856.3590335), Baiqi Chen, **Tingmin Wu**, Yanjun Zhang, Mohan Baruwal Chhetri, and Guangdong Bai.
