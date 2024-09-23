@@ -8,7 +8,7 @@ Full publication list can be found at [Google Scholar](https://scholar.google.co
 
 - [`WWW 23 Companion`](https://archives.iw3c2.org/www2023/) [Copyright Protection and Accountability of Generative AI: Attack, Watermarking and Attribution](https://dl.acm.org/doi/abs/10.1145/3543873.3587321), Haonan Zhong, Jiamin Chang, Ziyue Yang, **Tingmin Wu**, Pathum Chamikara Mahawaga Arachchige, Chehara Pathmabandu, and Minhui Xue.
 
-- [`TDSC'22`](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)[How Does Visualisation Help App Practitioners Analyse Android Apps?](https://ieeexplore.ieee.org/abstract/document/9783019), Lihong Tang, **Tingmin Wu**, Xiao Chen, Sheng Wen, Li Li, Xin Xia, Marthie Grobler, Yang Xiang.
+- [`TDSC'22`](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858) [How Does Visualisation Help App Practitioners Analyse Android Apps?](https://ieeexplore.ieee.org/abstract/document/9783019), Lihong Tang, **Tingmin Wu**, Xiao Chen, Sheng Wen, Li Li, Xin Xia, Marthie Grobler, Yang Xiang.
 
 - [`TOIT'21`](https://dl.acm.org/journal/toit) [Analysis of trending topics and text-based channels of information delivery in cybersecurity](https://dl.acm.org/doi/full/10.1145/3483332), **Tingmin Wu**, Rongjunchen Zhang, Wanlun Ma, Sheng Wen, Xin Xia, Cecile Paris, Surya Nepal, and Yang Xiang. 
 
